@@ -23,4 +23,4 @@ The Infineon CYW920721M2EVK-02 Evaluation Kit enables you to evaluate and develo
 * Max UART baud rate is 3M.
 * ADC\_INPUT\_P0 used in the hal/adc code example routes to D7 on the board, J4 pin 1. When the AUDIO3 shield is used, this routes to the CUSTOM button on the shield.
 
-For more information, see the [CYW20721B2 Product Guide](https://community.cypress.com/docs/DOC-17429)
+For more information, see the [CYW20721B2 Product Guide](https://www.infineon.com/dgdl/Infineon-CYW20721_Enhanced_Low_Power_BR_EDR_BLE_Bluetooth_5.0_SOC_for_Audio-AdditionalTechnicalInformation-v06_00-EN.pdf?fileId=8ac78c8c7e7124d1017ebeab5c8a566e)

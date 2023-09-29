@@ -1,5 +1,5 @@
 /*
- * Copyright 2016-2022, Cypress Semiconductor Corporation (an Infineon company) or
+ * Copyright 2016-2023, Cypress Semiconductor Corporation (an Infineon company) or
  * an affiliate of Cypress Semiconductor Corporation.  All rights reserved.
  *
  * This software, including source code, documentation and related
@@ -101,6 +101,11 @@ typedef enum
     WICED_PLATFORM_GPIO_38,  //!< GPIO 38
     WICED_PLATFORM_GPIO_39,  //!< GPIO 39
     WICED_PLATFORM_GPIO_40,  //!< GPIO 40
+    WICED_PLATFORM_GPIO_41,  //!< GPIO 41
+    WICED_PLATFORM_GPIO_42,  //!< GPIO 42
+    WICED_PLATFORM_GPIO_43,  //!< GPIO 43
+    WICED_PLATFORM_GPIO_44,  //!< GPIO 44
+    WICED_PLATFORM_GPIO_45,  //!< GPIO 45
     WICED_PLATFORM_GPIO_MAX //!< Max GPIO for error check
 } wiced_platform_gpio_number_t;
 
@@ -156,6 +161,11 @@ enum wiced_platform_pins
     PLATFORM_GPIO_38,
     PLATFORM_GPIO_39,
     PLATFORM_GPIO_40,
+    PLATFORM_GPIO_41,
+    PLATFORM_GPIO_42,
+    PLATFORM_GPIO_43,
+    PLATFORM_GPIO_44,
+    PLATFORM_GPIO_45,
     PLATFORM_GPIO_MAX_PINS
 };
 
